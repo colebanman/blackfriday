@@ -1,0 +1,31 @@
+{
+    "userProfile": {
+        "address[city]": "",
+        "address[postalCode]": "",
+        "address[address1]": "",
+        "address[address2]": "",
+        "address[state]": ""
+    },
+    "proxyList": [
+        "server:post:user:pass"
+    ],
+    "pxApiKey": "",
+    "accounts": [
+        {
+            "email": "",
+            "username": "",
+            "password": "",
+            "authToken": "",
+            "userId": "",
+            "deviceHash": "",
+            "deviceId": "",
+            "userFirstName": "",
+            "userLastName": "",
+            "addressId": "0",
+            "billingId": "0",
+            "proxy": "",
+            "pxCookie": "",
+            "ticketCount": ""
+        }
+    ]
+}
